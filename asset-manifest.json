@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eswarchandravidyasagar/app/static/css/main.073c9b0a.css",
+    "main.css": "/eswarchandravidyasagar/app/static/css/main.e8cfe362.css",
     "main.js": "/eswarchandravidyasagar/app/static/js/main.e6ac9ba2.js",
     "index.html": "/eswarchandravidyasagar/app/index.html",
-    "main.073c9b0a.css.map": "/eswarchandravidyasagar/app/static/css/main.073c9b0a.css.map",
+    "main.e8cfe362.css.map": "/eswarchandravidyasagar/app/static/css/main.e8cfe362.css.map",
     "main.e6ac9ba2.js.map": "/eswarchandravidyasagar/app/static/js/main.e6ac9ba2.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.e8cfe362.css",
     "static/js/main.e6ac9ba2.js"
   ]
 }
